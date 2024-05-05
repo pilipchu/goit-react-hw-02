@@ -1,0 +1,12 @@
+.btm {
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+.btm:not(:last-child) {
+  margin-right: 10px;
+}
+.btm:hover,
+.btm:focus {
+  background-color: grey;
+}
